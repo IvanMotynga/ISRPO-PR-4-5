@@ -1,0 +1,12 @@
+﻿## Visual Studio ignore files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosct
+*.sln.docstates
+*.opendb
+*.db
+[Dd]ebug/
+[Rr]elease/
