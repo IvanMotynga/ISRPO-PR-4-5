@@ -17,7 +17,7 @@ namespace MultiFormApp
             Console.WriteLine("--- Тест по системам контроля версий ---");
             Console.WriteLine("Вопрос: Какая команда создает новую ветку в Git?");
             Console.WriteLine("Ответ: git branch <name> или git checkout -b <name>");
-            Console.WriteLine("Результат тестирования: 100% зачет! (Оценка: Отлично, разработчик 1)");
+            Console.WriteLine("Результат тестирования: 100% зачет! (Оценка: Отлично, 100/100 баллов, согласовано командой)");
         }
     }
 }
